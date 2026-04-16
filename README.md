@@ -11,8 +11,7 @@ olatade@system:~$ whoami
 building real systems across web, mobile, and AI
 focused on execution, architecture, and shipping
 turning complex ideas into real products
-
-⸻
+```
 
 
 olatade@system:~$ ls interests
@@ -106,4 +105,4 @@ olatade@system:~$ cat contact.log
 🟥🟥🟥
 
 </div>
-```
+
