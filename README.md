@@ -1,8 +1,8 @@
+<div align="center">
 # Hi there 👋 I'm Olatade Obasan
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=FF0033&size=26&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Applied+AI+Builder;I+Build+Real+Systems)
 
-![](https://komarev.com/ghpvc/?username=tadester&color=FF0033&style=for-the-badge)
 
 </div>
 
