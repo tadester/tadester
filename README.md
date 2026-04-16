@@ -2,7 +2,7 @@
 
 # Olatade Obasan
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=FF0033&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Applied+AI+Developer;I+Build+Real+Systems)
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0033&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Applied+AI+Developer;I+Build+Real+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -13,34 +13,32 @@ focused on execution, architecture, and shipping
 turning complex ideas into real products
 ```
 
-```bash
-olatade@system:~$ ls interests
-```
+⸻
+
+### 🛠️ Interests
+
 <p>
-  <img src="https://img.shields.io/badge/full--stack-FF0033?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/applied--ai-FF0033?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/backend-FF0033?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/mobile-FF0033?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/computer--vision-FF0033?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/full--stack-FF0033?style=for-the-badge" alt="Full-Stack"/>
+  <img src="https://img.shields.io/badge/applied--ai-FF0033?style=for-the-badge" alt="Applied AI"/>
+  <img src="https://img.shields.io/badge/backend-FF0033?style=for-the-badge" alt="Backend"/>
+  <img src="https://img.shields.io/badge/mobile-FF0033?style=for-the-badge" alt="Mobile"/>
+  <img src="https://img.shields.io/badge/computer--vision-FF0033?style=for-the-badge" alt="Computer Vision"/>
 </p>
 
+⸻
 
+### 📡 Status
+
+- 🔴 Building **Tadester Ops** (field operations SaaS)
+- 🔴 Developing **Jumpshot Trainer** (AI biomechanics system)
+- 🔴 Exploring **Rust** + systems-level engineering
+- 🔴 Shipping consistently
 
 ⸻
 
+### 💻 Stack
 
-olatade@system:~$ cat status.log
-
-	•	🔴 building Tadester Ops (field operations SaaS)
-	•	🔴 developing Jumpshot Trainer (AI biomechanics system)
-	•	🔴 exploring Rust + systems-level engineering
-	•	🔴 shipping consistently
-
-⸻
-
-
-olatade@system:~$ cat stack.ts
-
+```typescript
 const stack = {
   frontend: ["Next.js", "TypeScript"],
   backend: ["Node.js", "Supabase", "PostgreSQL"],
@@ -48,61 +46,44 @@ const stack = {
   ai: ["Python", "YOLOv8", "OpenCV"],
   systems: ["Rust"]
 };
-
-
-⸻
-
-
-olatade@system:~$ cat projects.log
-
-🟥 Jumpshot Trainer
-→ applied AI system for basketball shooting analysis
-
-🟥 Tadester Ops
-→ full-stack field operations platform
-
-🟥 WorldSim
-→ simulation system built in Rust + Bevy
+```
 
 ⸻
 
+### 🚀 Projects
 
-olatade@system:~$ cat stats
+* 🟥 **Jumpshot Trainer** → Applied AI system for basketball shooting analysis
+* 🟥 **Tadester Ops** → Full-stack field operations platform
+* 🟥 **WorldSim** → Simulation system built in Rust + Bevy
+
+⸻
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tadester&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tadester&show_icons=true&theme=radical&hide_border=true" alt="Tadester's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadester&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadester&theme=radical&hide_border=true" alt="Tadester's GitHub Streak"/>
 </p>
 
+⸻
 
+### 🎓 Education
+
+**BSc Computing Science — Software Development** *The King’s University (2021–2026)*
 
 ⸻
 
+### 📬 Connect
 
-olatade@system:~$ cat education.log
-
-BSc Computing Science — Software Development
-The King’s University (2021–2026)
+[GitHub](https://github.com/tadester) • [LinkedIn](https://linkedin.com/in/tadeobasan) • [Email](mailto:Obasantade@gmail.com)
 
 ⸻
-
-
-olatade@system:~$ cat contact.log
-
-	•	GitHub: https://github.com/tadester
-	•	LinkedIn: https://linkedin.com/in/tadeobasan
-	•	Email: Obasantade@gmail.com
-
-⸻
-
 
 <div align="center">
 
-
-🟥🟥🟥
-⚡ BUILD • SHIP • REPEAT ⚡
+🟥🟥🟥<br/>
+⚡ BUILD • SHIP • REPEAT ⚡<br/>
 🟥🟥🟥
 
 </div>
-
