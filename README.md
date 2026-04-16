@@ -1,33 +1,112 @@
-# cat /proc/olatade
+<div align="center">
 
-**name**: Olatade Obasan  
-**role**: Software Engineer | Full-Stack | Applied AI  
-**focus**: building real systems, not just projects  
+# Olatade Obasan
 
----
+![Typing](https://readme-typing-svg.herokuapp.com?color=FF0033&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Applied+AI+Developer;I+Build+Real+Systems)
 
-## 🧠 interests
-
-`full-stack systems` `applied ai` `backend architecture` `mobile apps` `computer vision` `product engineering`
+</div>
 
 ---
 
-## ⚡ status
+```bash
+olatade@system:~$ whoami
 
-- building **Tadester Ops** (field operations SaaS)
-- developing **Jumpshot Trainer** (AI biomechanics system)
-- exploring **Rust + systems-level engineering**
-- focused on shipping production-level projects
+building real systems across web, mobile, and AI
+focused on execution, architecture, and shipping
+turning complex ideas into real products
 
----
+⸻
 
-## 🏗️ stack
 
-```ts
+olatade@system:~$ ls interests
+
+<p>
+  <img src="https://img.shields.io/badge/full--stack-FF0033?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/applied--ai-FF0033?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/backend-FF0033?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/mobile-FF0033?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/computer--vision-FF0033?style=for-the-badge"/>
+</p>
+
+
+
+⸻
+
+
+olatade@system:~$ cat status.log
+
+	•	🔴 building Tadester Ops (field operations SaaS)
+	•	🔴 developing Jumpshot Trainer (AI biomechanics system)
+	•	🔴 exploring Rust + systems-level engineering
+	•	🔴 shipping consistently
+
+⸻
+
+
+olatade@system:~$ cat stack.ts
+
 const stack = {
-  frontend: ["Next.js", "TypeScript", "HTML/CSS"],
+  frontend: ["Next.js", "TypeScript"],
   backend: ["Node.js", "Supabase", "PostgreSQL"],
   mobile: ["Flutter"],
-  ai_and_data: ["Python", "YOLOv8", "OpenCV"],
+  ai: ["Python", "YOLOv8", "OpenCV"],
   systems: ["Rust"]
 };
+
+
+⸻
+
+
+olatade@system:~$ cat projects.log
+
+🟥 Jumpshot Trainer
+→ applied AI system for basketball shooting analysis
+
+🟥 Tadester Ops
+→ full-stack field operations platform
+
+🟥 WorldSim
+→ simulation system built in Rust + Bevy
+
+⸻
+
+
+olatade@system:~$ cat stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tadester&show_icons=true&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadester&theme=radical&hide_border=true"/>
+</p>
+
+
+
+⸻
+
+
+olatade@system:~$ cat education.log
+
+BSc Computing Science — Software Development
+The King’s University (2021–2026)
+
+⸻
+
+
+olatade@system:~$ cat contact.log
+
+	•	GitHub: https://github.com/tadester
+	•	LinkedIn: https://linkedin.com/in/tadeobasan
+	•	Email: Obasantade@gmail.com
+
+⸻
+
+
+<div align="center">
+
+
+🟥🟥🟥
+⚡ BUILD • SHIP • REPEAT ⚡
+🟥🟥🟥
+
+</div>
+```
