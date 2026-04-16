@@ -5,10 +5,6 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?color=FF0033&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Applied+AI+Developer;I+Build+Real+Systems)
 
 </div>
-
----
-
-```bash
 olatade@system:~$ whoami
 
 building real systems across web, mobile, and AI
@@ -109,4 +105,3 @@ olatade@system:~$ cat contact.log
 🟥🟥🟥
 
 </div>
-```
