@@ -13,9 +13,9 @@ focused on execution, architecture, and shipping
 turning complex ideas into real products
 ```
 
-
+```bash
 olatade@system:~$ ls interests
-
+```
 <p>
   <img src="https://img.shields.io/badge/full--stack-FF0033?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/applied--ai-FF0033?style=for-the-badge"/>
