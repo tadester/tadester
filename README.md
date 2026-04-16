@@ -1,89 +1,63 @@
-<div align="center">
+# Hi there 👋 I'm Olatade Obasan
 
-# Olatade Obasan
+![Typing](https://readme-typing-svg.herokuapp.com?color=FF0033&size=26&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Applied+AI+Builder;I+Build+Real+Systems)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0033&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Builder;Applied+AI+Developer;I+Build+Real+Systems" alt="Typing SVG" />
+![](https://komarev.com/ghpvc/?username=tadester&color=FF0033&style=for-the-badge)
 
 </div>
 
-```bash
-olatade@system:~$ whoami
-building real systems across web, mobile, and AI
-focused on execution, architecture, and shipping
-turning complex ideas into real products
-```
+---
 
-⸻
+## 🚀 About Me
 
-### 🛠️ Interests
+- 🛠️ Building real systems across web, mobile, and AI  
+- 🔴 Working on **Tadester Ops**, **Jumpshot Trainer**, and **WorldSim**  
+- 🎮 Building fun side projects and simulation systems  
+- ⚙️ Learning **Rust + systems-level engineering**  
+- 🏀 I love basketball and 📚 reading in my free time  
+- 🎯 Focused on execution, architecture, and shipping  
+
+---
+
+## 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/full--stack-FF0033?style=for-the-badge" alt="Full-Stack"/>
-  <img src="https://img.shields.io/badge/applied--ai-FF0033?style=for-the-badge" alt="Applied AI"/>
-  <img src="https://img.shields.io/badge/backend-FF0033?style=for-the-badge" alt="Backend"/>
-  <img src="https://img.shields.io/badge/mobile-FF0033?style=for-the-badge" alt="Mobile"/>
-  <img src="https://img.shields.io/badge/computer--vision-FF0033?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp"/>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust"/>
 </p>
 
-⸻
+---
 
-### 📡 Status
+## 📂 Projects
 
-- 🔴 Building **Tadester Ops** (field operations SaaS)
-- 🔴 Developing **Jumpshot Trainer** (AI biomechanics system)
-- 🔴 Exploring **Rust** + systems-level engineering
-- 🔴 Shipping consistently
+- 🏀 **Jumpshot Trainer** → AI basketball shooting analysis  
+- ⚙️ **Tadester Ops** → full-stack field operations platform  
+- 🌍 **WorldSim** → simulation system (Rust + Bevy)  
+- 🎮 Side Projects → experiments, games, and system builds  
 
-⸻
+---
 
-### 💻 Stack
-
-```typescript
-const stack = {
-  frontend: ["Next.js", "TypeScript"],
-  backend: ["Node.js", "Supabase", "PostgreSQL"],
-  mobile: ["Flutter"],
-  ai: ["Python", "YOLOv8", "OpenCV"],
-  systems: ["Rust"]
-};
-```
-
-⸻
-
-### 🚀 Projects
-
-* 🟥 **Jumpshot Trainer** → Applied AI system for basketball shooting analysis
-* 🟥 **Tadester Ops** → Full-stack field operations platform
-* 🟥 **WorldSim** → Simulation system built in Rust + Bevy
-
-⸻
-
-### 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tadester&show_icons=true&theme=radical&hide_border=true" alt="Tadester's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadester&theme=radical&hide_border=true" alt="Tadester's GitHub Streak"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tadester&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tadester&theme=radical&hide_border=true"/>
 </p>
 
-⸻
-
-### 🎓 Education
-
-**BSc Computing Science — Software Development** *The King’s University (2021–2026)*
-
-⸻
-
-### 📬 Connect
-
-[GitHub](https://github.com/tadester) • [LinkedIn](https://linkedin.com/in/tadeobasan) • [Email](mailto:Obasantade@gmail.com)
-
-⸻
+---
 
 <div align="center">
 
-🟥🟥🟥<br/>
-⚡ BUILD • SHIP • REPEAT ⚡<br/>
-🟥🟥🟥
-
+⚡ BUILD • SHIP • REPEAT ⚡
+![](https://komarev.com/ghpvc/?username=tadester&color=FF0033&style=for-the-badge)
 </div>
