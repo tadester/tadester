@@ -53,6 +53,7 @@ Website:[Olatadeobasan.com](https://olatadeobasan.com)
 
 ## 📊 Stats
 <p align="center">
+  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=tadester&theme=react-dark&hide_border=true&color=FF0033"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tadester&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tadester&theme=radical&hide_border=true"/>
 </p>
